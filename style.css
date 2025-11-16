@@ -1,0 +1,38 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    margin: 30px auto;
+    border: 2px solid black;
+    background: rgba(255, 255, 255, 0.9);
+}
+
+td {
+    padding: 15px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: red;
+}
+
+.main {
+    text-align: center;
+    font-size: 18px;
+}
